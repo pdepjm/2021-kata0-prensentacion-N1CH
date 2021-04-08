@@ -2,4 +2,6 @@
 
 ## Estudiante: _Nicanor Chuma_
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+![mi foto](foto.jpeg)
+
+Hola, tengo 21 años, me gusta jugar a la PC a casi de todo ultimamente, tambien me gusta bastante aprender idiomas y me fascina el ingles. Suelo ver bastantes pelis, series (aguante Marvel) y cada tanto anime.
